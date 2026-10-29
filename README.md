@@ -1,4 +1,4 @@
-# Agentic-CAE: Autonomous CAD, CFD & FEM Optimization Framework
+# Autonomous-CAE: Autonomous CAD, CFD & FEM Optimization Framework
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![CAD: build123d](https://img.shields.io/badge/CAD-build123d%20(OpenCASCADE)-orange)](https://github.com/gumyr/build123d)
