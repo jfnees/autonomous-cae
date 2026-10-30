@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Autonomous-CAE runtime outputs (keep directory skeleton)
+workspace/**
+!workspace/**/
+!workspace/**/.gitkeep
